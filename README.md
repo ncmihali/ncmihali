@@ -6,3 +6,5 @@
 - 💬 Ask me about anything tech-related: VR/AR, C/C++, Game Development, anything!
 - 📫 How to reach me: nikolas.mihaliak@gmail.com | (919)607-7078
 - ⚡ Fun fact: I am adopted from Ust'-Kamenogorsk Kazakhstan!
+
+Skills: C, C++, Docker, DevOps, IBM Z (DB2, MQ, z/OS), SQL, Microsoft Office
