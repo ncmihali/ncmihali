@@ -1,4 +1,4 @@
-### Hello, I'm Nikolas! 🏳️‍🌈👋
+### Hello, I'm Nikolas! 🏳️‍🌈
 
 - 🔭 I’m currently working on building my SWE porfolio
 - 🌱 I’m currently studyng Software Engineering Management @ Duke
